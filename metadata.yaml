@@ -1,0 +1,32 @@
+_repo: The-Doings-of-the-Fifteenth-Infantry-Brigade--August-1914-to-March-1915_22074
+_version: 0.1.0
+alternative_title: "Doings of the 15th Infantry Brigade\r\nAugust 1914 to March 1915"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gleichen, Edward, Lord
+    alias: Gleichen, Albert Edward Wildred, Lord
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '25078'
+    url: http://www.gutenberg.org/2009/agents/25078
+    wikipedia: http://en.wikipedia.org/wiki/Lord_Edward_Gleichen
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Infantry Brigade, 15th'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: 'The Doings of the Fifteenth Infantry Brigade: August 1914 to March 1915'
+url: http://www.gutenberg.org/ebooks/22074
